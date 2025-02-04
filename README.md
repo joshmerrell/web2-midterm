@@ -1,7 +1,7 @@
-# Web 2 Starter
+# Web 2 Midterm
 
 ## Why?
-Boilerplate for Web Design 2
+Midterm for Web Design 2
 
 ## How?
 <strike>Very carefully</strike>
@@ -9,3 +9,4 @@ Click on "Use this template" to crate a new repository with the contents of this
 
 ## Citations
 - [Normalize.css](https://necolas.github.io/normalize.css/)
+- Colorkit
